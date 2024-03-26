@@ -61,7 +61,7 @@ let splashtext = [
   'Made by Kairos',
   'Forked from interstellar',
   'Thanks for using the site',
-  'Stop asking if I copied emory',
+  'Stop asking if I copied emory, I made him',
   'racism wasnt that bad',
   'Rainbow Six Siege is the best shooter ever',
   'Check out the settings page',
